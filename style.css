@@ -1,0 +1,9 @@
+body { background-color:cyan;
+	background-image:url("images/noon.jfif");
+	background-repeat:repeat-x;
+	}
+#para1 { background-color:red;}
+
+#para2 { background-color:"#549834";}
+
+#para3 { background-color:green;}
